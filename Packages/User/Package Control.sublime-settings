@@ -1,0 +1,21 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"All Autocomplete",
+		"Babel",
+		"BracketHighlighter",
+		"DocBlockr",
+		"HTML5",
+		"Markdown Preview",
+		"Package Control",
+		"SideBarEnhancements",
+		"Solarized Color Scheme",
+		"SublimeLinter",
+		"Theme - Sodarized",
+		"TrailingSpaces"
+	]
+}
